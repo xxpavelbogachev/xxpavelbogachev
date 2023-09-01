@@ -2,8 +2,6 @@
   <img src="https://media1.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47ol21aao3c6rof3k2cl2xder2sfj2aju2xzoycjx0&rid=giphy.gif&ct=s" width="100"/>
 </div>
 
-<h3 align="center">Hello</h3>
-
 <br>
 
 <p align="center">
