@@ -5,18 +5,18 @@
 <br>
 
 <p align="center">
-  <b>I am programming in JavaScript and Python<b/>
+  <b>I program in Python<b/>
 </p>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=ecf05e479t624vycs207vzmgp0j7prv56lp0b27a24vljdiv&rid=giphy.gif&ct=s" alt="JavaScript" width="50"/>&nbsp;
   <img src="https://media4.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif?cid=ecf05e47gjc1rqj8phcet8zr7mei1clxcopxb1a5b3hc10e3&rid=giphy.gif&ct=s" alt="Python" width="50"/>&nbsp;
+<!--   <img src="https://media0.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=ecf05e479t624vycs207vzmgp0j7prv56lp0b27a24vljdiv&rid=giphy.gif&ct=s" alt="JavaScript" width="50"/>&nbsp; -->
 </div>
 
 <br>
 
 <p align="center">
-  <b>I develop projects on React<b/>
+  <b>I develop projects using React<b/>
 </p>
 
 <div align="center">
