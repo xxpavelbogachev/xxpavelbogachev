@@ -16,9 +16,9 @@
 <br>
 
 <p align="center">
-  <b>I develop projects using React<b/>
+<!--   <b>I develop projects using React<b/> -->
 </p>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=ecf05e479t624vycs207vzmgp0j7prv56lp0b27a24vljdiv&rid=giphy.gif&ct=s" alt="React" width="50"/>&nbsp;
+<!--   <img src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=ecf05e479t624vycs207vzmgp0j7prv56lp0b27a24vljdiv&rid=giphy.gif&ct=s" alt="React" width="50"/>&nbsp; -->
 </div>
